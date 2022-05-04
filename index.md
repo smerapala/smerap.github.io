@@ -1,7 +1,6 @@
 ### About Smera
 
-Smera is a sophomore at the Ohio State University majoring in Computer Science and Engineering and minoring in Economics and Psychology. She hopes to go into a field in bioinformatics someday.
-
+Smera is a senior at the Ohio State University majoring in Computer Science and Engineering and minoring in Psychology.
 
 
 ### Past Projects
