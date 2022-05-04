@@ -3,18 +3,19 @@
 Smera is a senior at the Ohio State University majoring in Computer Science and Engineering and minoring in Psychology.
 
 
-### Past Projects
+### Internships
+
+Internship | Time | Description
+------------ | ------------- | -------------
+Amazon | Summer 2022 | hi
+Stripe | Winter 2022 | hi
+Amazon | Summer 2021 | hi
+Unific | Summer 2020 | hi
+
+### Projects
 
 Project | Description
 ------------ | -------------
 Drive Buddy | Project from 2019 OHI/O Hackathon
-Spelling Bee API | Personal Project to create a comprehensive study list
-
-
-
-### Current Projects
-
-Project | Description
------------- | -------------
-AWS COVID Visualization  | Personal Project to use AWS services to visualize a dataset
+Legend of Zelda | [CSE 3902 SP '21](https://github.com/Jkim-Hack/cse3902)
 
