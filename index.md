@@ -7,10 +7,10 @@ Smera is a senior at the Ohio State University majoring in Computer Science and 
 
 Internship | Time | Description
 ------------ | ------------- | -------------
-Amazon | Summer 2022 | hi
-Stripe | Winter 2022 | hi
-Amazon | Summer 2021 | hi
-Unific | Summer 2020 | hi
+Amazon | Summer 2022 | Selling Partner Services (Seattle WA)
+Stripe | Winter 2022 | Issuing (Seattle WA)
+Amazon | Summer 2021 | Selling Partner Services (Seattle WA)
+Unific | Summer 2020 | Support (Akron OH)
 
 ### Projects
 
